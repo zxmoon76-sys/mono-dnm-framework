@@ -1,0 +1,6 @@
+.secret_pass.txt
+general_records.csv
+accounting_records.csv
+__pycache__/
+*.pyc
+.env
